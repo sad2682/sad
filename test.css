@@ -1,0 +1,17 @@
+body {
+    background-image: url("black.jpg");
+    background-color: #cccccc;
+}
+
+h1 {
+    font-family: monospace;
+    color: antiquewhite;
+    margin-left: 20px;
+    font-size: xx-large;
+}
+
+p {
+    font-size: medium;
+    font-family: sans-serif;
+    color: aliceblue;
+}
